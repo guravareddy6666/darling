@@ -10,7 +10,7 @@ node{
         }
         stage('deploye')
         {
-            echo 'depoly the project'
+            echo 'depoly the project by usha'
         }
         stage('release')
         {
