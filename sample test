@@ -6,7 +6,7 @@ node{
         }
        stage('test')
         {
-            echo 'test the project'
+            echo 'test the project by reddy'
         }
         stage('deploye')
         {
